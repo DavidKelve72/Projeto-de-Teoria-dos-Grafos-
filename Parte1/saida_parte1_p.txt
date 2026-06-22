@@ -1,0 +1,4 @@
+ALGORITMO: Dijkstra
+JUSTIFICATIVA: O algoritmo de Dijkstra e selecionado pois todos os pesos do grafo sao nao-negativos, processando vertices em ordem crescente de distancia via fila de prioridade com complexidade O((V+E) log V), superior ao Bellman-Ford neste cenario.
+ROTA: 0 1 3 4
+CUSTO: 7

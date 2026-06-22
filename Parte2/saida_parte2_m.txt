@@ -1,0 +1,4 @@
+ALGORITMO: DSatur
+JUSTIFICATIVA: O DSatur e uma heuristica gulosa que prioriza, a cada iteracao, o vertice nao colorido de maior saturacao — quantidade de cores distintas na vizinhanca —, reduzindo conflitos de forma sistematica e produzindo coloracoes de qualidade proxima ao numero cromatico em tempo O(V^2).
+NUM_CORES: 3
+COLORACAO: 0=1 1=2 2=3 3=1 4=2 5=1 6=2 7=1

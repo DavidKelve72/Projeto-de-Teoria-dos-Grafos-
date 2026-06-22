@@ -1,0 +1,4 @@
+ALGORITMO: Bellman-Ford
+JUSTIFICATIVA: O algoritmo de Bellman-Ford e adotado pois o grafo contem arestas de peso negativo, relaxando todas as arestas em V-1 iteracoes com complexidade O(V*E) e verificando a ausencia de ciclos negativos por meio de uma passagem adicional.
+ROTA: 0 1 2 4 3 6 9
+CUSTO: 6
